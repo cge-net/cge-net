@@ -1,6 +1,6 @@
 # Chester Evio
 
-Network-focused IT professional based in Puerto Princesa City, Philippines. CCNA certified, with hands-on experience in IT support, dual-ISP monitoring and LAN troubleshooting. Looking for entry-level network roles: NOC, junior or associate network engineer.
+CCNA-certified and working toward my first network engineering role. I have done IT support for a cloud data-migration platform, built a dual-ISP monitoring script, and taught introductory networking. I now design, build and document my own network projects. Based in Puerto Princesa City, Philippines, and open to entry-level roles: NOC, junior or associate network engineer.
 
 ## Certifications
 
@@ -17,12 +17,12 @@ Network-focused IT professional based in Puerto Princesa City, Philippines. CCNA
 
 ## Featured project
 
-### [School Campus Network](https://github.com/YOUR-USERNAME/school-network-project)
+### [School Campus Network](https://github.com/cge-net/school-network-project)
 
 A two-building campus network built in Cisco Packet Tracer: redundant Layer 3 cores with HSRP, six segmented VLANs with least-privilege ACLs, OSPF, a dual-ISP edge with NAT failover and controller-based wireless. The repository includes device configurations, design decisions and a troubleshooting log.
 
 ## Background
 
 - BS Computer Science, cum laude, Palawan Polytechnic College (2025)
-- IT Support Engineer, Flexify Philippines: built a Bash monitor for dual-ISP load-balancer traffic and supported a multi-cloud storage platform
-- Part-time instructor in introductory computing and networking
+- IT Support Engineer, Flexify Philippines (2026): built a Bash monitor for dual-ISP load-balancer traffic and supported a multi-cloud storage platform
+- Part-time instructor in introductory computing and networking (2025–2026)
