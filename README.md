@@ -1,6 +1,6 @@
 # Chester Evio
 
-CCNA-certified and working toward my first network engineering role. I have done IT support for a cloud data-migration platform, built a dual-ISP monitoring script, and taught introductory networking. I now design, build and document my own network projects. Based in Puerto Princesa City, Philippines, and open to entry-level roles: NOC, junior or associate network engineer.
+CCNA-certified and working toward my first network engineering role. I have done IT support for a cloud data-migration platform, built a dual-ISP monitoring script, and taught introductory networking. I now design, build, test and document my own network projects. Based in Puerto Princesa City, Philippines, and open to entry-level roles: NOC, junior or associate network engineer.
 
 ## Certifications
 
@@ -9,13 +9,18 @@ CCNA-certified and working toward my first network engineering role. I have done
 
 ## Skills
 
+- **Routing:** multi-area OSPF (summarization, stub areas), eBGP/iBGP, route-maps and prefix-lists, static and floating routes, NAT/PAT
 - **Switching:** VLANs, trunking, Rapid PVST+, EtherChannel, HSRP
-- **Routing:** OSPF, static and floating routes, NAT/PAT, inter-VLAN routing
+- **Monitoring:** Zabbix, SNMP polling and traps, syslog, NTP
 - **Security:** ACLs, port security, DHCP snooping, SSH hardening
 - **Wireless:** WLC, lightweight APs, FlexConnect, WPA2
-- **Services and tools:** DHCP, DNS, NTP, Bash, Cisco Packet Tracer, GNS3, Zendesk
+- **Tools:** GNS3, Cisco Packet Tracer, Linux (Ubuntu Server), Bash, VirtualBox, Zendesk
 
-## Featured project
+## Projects
+
+### [Enterprise OSPF + BGP Network with NOC Monitoring](https://github.com/cge-net/enterprise-ospf-bgp-noc-lab)
+
+A head office and two branches with two Internet providers, built in GNS3: multi-area OSPF with a summarized and a totally stubby area, eBGP/iBGP with routing policy (local preference, AS-path prepending, no-transit filter), NAT on both edges, and Zabbix monitoring with SNMP polling, traps and syslog. Six failover scenarios tested and measured; 16 problems documented from symptom to fix.
 
 ### [School Campus Network](https://github.com/cge-net/school-network-project)
 
